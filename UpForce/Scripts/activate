@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Projects\UpForce\UpForce"
+VIRTUAL_ENV="C:\Projects\cms_project_UpForce\UpForce\"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
